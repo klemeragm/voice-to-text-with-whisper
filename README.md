@@ -1,8 +1,8 @@
 ﻿# voice-to-text-with-whisper
 
-**This project is a code to transcribe or translate audios and medias with a Whisper framework.**
+**This project is a code to transcribe or translate audios and medias with a Whisper library.**
 
-You neeed to install: 
+# 1 First: You neeed to install: 
 
 <code>pip install whisper</code>
 
@@ -38,6 +38,11 @@ result = whisper.decode(model,mel,options)
 
 # print the Result:
 print(f'The text translation is: {result.text}')
+
+**Refs:** https://github.com/openai/whisper
+https://github.com/AndrewMayneProjects/Whisper 
+
+
 
 
 
