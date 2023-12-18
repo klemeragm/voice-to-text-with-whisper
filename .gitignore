@@ -1,2 +1,6 @@
 #ignore .env
+.venv
 .env
+
+
+
