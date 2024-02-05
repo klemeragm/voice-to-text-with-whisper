@@ -1,0 +1,8 @@
+
+whisper
+pathlib
+os
+openai 
+re
+json 
+torch

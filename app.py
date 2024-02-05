@@ -9,6 +9,7 @@ import openai
 import json 
 import torch
 
+
 path = pathlib.Path(r"C:/Users/kleme/Documents/Python Scripts/WhisperAI/audio_teste.mp4")  #def main():
 
 
